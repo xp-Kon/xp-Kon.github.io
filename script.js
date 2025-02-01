@@ -1,7 +1,7 @@
 // 初始菜品列表
 const initialDishes = [
-  { name: '宫保鸡丁', image: 'images/gongbao.jpg' },
-  { name: '麻辣火锅', image: 'images/hotpot.jpg' },
+  { name: '宫保鸡丁', image: 'images/gb.jpg' },
+  { name: '麻辣火锅', image: 'images/mg.jpg' },
   { name: '小龙虾', image: 'images/lobster.jpg' },
 ];
 
