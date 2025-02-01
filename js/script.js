@@ -1,4 +1,4 @@
-const supabaseKey = String.fromEnvironment('SUPABASE_KEY');
+
 const apiUrl = 'https://xxdblqskvzxxndwriftw.supabase.co'; // 后端API地址
 const menuContainer = document.getElementById('menu-container');
 const selectedMenuContainer = document.getElementById('selected-menu-container');
