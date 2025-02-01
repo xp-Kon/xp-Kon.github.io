@@ -1,4 +1,4 @@
-const apiUrl = 'http://localhost:5000/api/menu'; // 后端API地址
+const apiUrl = 'junction.proxy.rlwy.net'; // 后端API地址
 const menuContainer = document.getElementById('menu-container');
 const selectedMenuContainer = document.getElementById('selected-menu-container');
 const generateImageBtn = document.getElementById('generate-image-btn');
